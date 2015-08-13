@@ -1,0 +1,23 @@
+{
+  "uuid": "bbd1e257-8ab3-4b0f-9ee8-d4d016980eb0",
+  "shortName": "DisThumb",
+  "longName": "DisThumb",
+  "companyName": "pancake",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [{
+      "menuIcon": true,
+      "type": "png",
+      "name": "IMAGE_MENUICON",
+      "file": "menuicon.png"
+    }]
+  }
+}
